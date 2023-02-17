@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "workspaces": [
+    "projects/*"
+  ],
   "devDependencies": {
     "standard": "^17.0.0"
   },
